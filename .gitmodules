@@ -1,0 +1,3 @@
+[submodule "md-editor"]
+	path = md-editor
+	url = https://github.com/ruichanghuang/md-editor
